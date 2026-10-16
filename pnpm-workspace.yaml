@@ -1,0 +1,7 @@
+allowBuilds:
+  esbuild: true
+minimumReleaseAgeExclude:
+  - lucide-react@1.57.0
+overrides:
+  esbuild: 0.28.2
+  source-map-js: 1.2.2

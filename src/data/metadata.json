@@ -1,0 +1,15 @@
+{
+  "levels": [
+    "はじめの一歩",
+    "日常を話す",
+    "表現を広げる",
+    "自然に伝える",
+    "深く語る",
+    "自在に表現する",
+    "上級・専門表現"
+  ],
+  "edition": "2025-11",
+  "sourceUrl": "https://www.chinesetest.cn/syllabus",
+  "syllabusPdf": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+  "coverageUnit": "One non-empty grammar content table row, plus seven grammar headings with empty content cells; this is our teaching-unit count, not an official HSK total."
+}

@@ -1,0 +1,4752 @@
+[
+  {
+    "id": "p386-1",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "小—、第—",
+    "category": "前缀"
+  },
+  {
+    "id": "p386-2",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "—们、—边",
+    "category": "后缀"
+  },
+  {
+    "id": "p386-3",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "上、下、里、外、前、后",
+    "category": "方位名词"
+  },
+  {
+    "id": "p386-4",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "会、能",
+    "category": "能愿动词"
+  },
+  {
+    "id": "p386-5",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "想、要",
+    "category": ""
+  },
+  {
+    "id": "p386-6",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "可以",
+    "category": ""
+  },
+  {
+    "id": "p386-7",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "看病、睡觉、说话、上课、下课、上班、下班、生病",
+    "category": "离合词"
+  },
+  {
+    "id": "p386-8",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "多、多少、几、哪、哪儿、哪里、哪些、什么、谁、怎么、怎么样",
+    "category": "疑问代词"
+  },
+  {
+    "id": "p386-9",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "我、你、您、他、她、我们、你们、他们、她们、它、它们、大家",
+    "category": "人称代词"
+  },
+  {
+    "id": "p386-10",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "这、那、这儿、那儿、这里、那里、这些、那些、有的、这个、那个、有些",
+    "category": "指示代词"
+  },
+  {
+    "id": "p386-11",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "一、二/两、三、四、五、六、七、八、九、零、十、百、半、千",
+    "category": "数词"
+  },
+  {
+    "id": "p386-12",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "（1）专用名量词：本、个、家、口、块、件、只、元",
+    "category": "名量词"
+  },
+  {
+    "id": "p386-13",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "（2）借用名量词：杯",
+    "category": ""
+  },
+  {
+    "id": "p386-14",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "日、号、岁、点、分、年、天",
+    "category": "时量词"
+  },
+  {
+    "id": "p386-15",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "非常、很、太、真、有（一）点儿",
+    "category": "程度副词"
+  },
+  {
+    "id": "p386-16",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "都1",
+    "category": "范围副词"
+  },
+  {
+    "id": "p386-17",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "在、正在",
+    "category": "时间副词"
+  },
+  {
+    "id": "p386-18",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "再1",
+    "category": "频率副词"
+  },
+  {
+    "id": "p386-19",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "还1、也",
+    "category": "关联副词"
+  },
+  {
+    "id": "p386-20",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "不、没（有）、不要",
+    "category": "否定副词"
+  },
+  {
+    "id": "p386-21",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "在",
+    "category": "引出时间、处所"
+  },
+  {
+    "id": "p386-22",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "和1、对",
+    "category": "引出对象"
+  },
+  {
+    "id": "p386-23",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "和2",
+    "category": "连接词语或短语"
+  },
+  {
+    "id": "p386-24",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "的1",
+    "category": "结构助词"
+  },
+  {
+    "id": "p386-25",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "了1",
+    "category": "动态助词"
+  },
+  {
+    "id": "p386-26",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "吧1、了2、吗、呢1、呢2、呢3",
+    "category": "语气助词"
+  },
+  {
+    "id": "p386-27",
+    "page": 383,
+    "pdfPage": 386,
+    "level": 1,
+    "source": "喂",
+    "category": "叹词"
+  },
+  {
+    "id": "p387-1",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "（1）联合短语",
+    "category": "基本结构类型"
+  },
+  {
+    "id": "p387-2",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "（2）偏正短语",
+    "category": ""
+  },
+  {
+    "id": "p387-3",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "（3）动宾短语",
+    "category": ""
+  },
+  {
+    "id": "p387-4",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "（4）主谓短语",
+    "category": ""
+  },
+  {
+    "id": "p387-5",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "（1）数量短语",
+    "category": "其他结构类型"
+  },
+  {
+    "id": "p387-6",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "（2）介宾短语",
+    "category": ""
+  },
+  {
+    "id": "p387-7",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "（3）方位短语",
+    "category": ""
+  },
+  {
+    "id": "p387-8",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "名词、代词或名词性短语作主语",
+    "category": "主语"
+  },
+  {
+    "id": "p387-9",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "名词、代词、数词或数量短语作谓语",
+    "category": "谓语"
+  },
+  {
+    "id": "p387-10",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "动词或动词性短语、形容词或形容词性短语作谓语",
+    "category": ""
+  },
+  {
+    "id": "p387-11",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "名词、代词或名词性短语作宾语",
+    "category": "宾语"
+  },
+  {
+    "id": "p387-12",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "名词性词语、形容词性短语、数量短语作定语",
+    "category": "定语"
+  },
+  {
+    "id": "p387-13",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "副词、形容词作状语；表示时间、处所的词语作状语",
+    "category": "状语",
+    "sourceOriginal": "副词、形容词作状语表示时间、处所的词语作状语",
+    "sourceCorrection": "原表の二つの行をセミコロンで区切っています。"
+  },
+  {
+    "id": "p387-14",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "动词+动量补语",
+    "category": "数量补语1"
+  },
+  {
+    "id": "p387-15",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "主谓句1：动词谓语句",
+    "category": "单句"
+  },
+  {
+    "id": "p387-16",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "主谓句2：形容词谓语句",
+    "category": ""
+  },
+  {
+    "id": "p387-17",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "主谓句3：名词谓语句",
+    "category": ""
+  },
+  {
+    "id": "p387-18",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "非主谓句",
+    "category": ""
+  },
+  {
+    "id": "p387-extra1",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "陈述句",
+    "category": "陈述句"
+  },
+  {
+    "id": "p387-19",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "（1）是非问句",
+    "category": "疑问句"
+  },
+  {
+    "id": "p387-20",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "（2）特指问句",
+    "category": ""
+  },
+  {
+    "id": "p387-21",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "（3）正反问句",
+    "category": ""
+  },
+  {
+    "id": "p387-extra2",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "祈使句",
+    "category": "祈使句"
+  },
+  {
+    "id": "p387-extra3",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "感叹句",
+    "category": "感叹句"
+  },
+  {
+    "id": "p387-22",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "表示等同或类属",
+    "category": "“是”字句1"
+  },
+  {
+    "id": "p387-23",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "表示领有",
+    "category": "“有”字句1"
+  },
+  {
+    "id": "p387-24",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "（1）处所+是+名词",
+    "category": "存现句1",
+    "sourceOriginal": "（1）所处+是+名词",
+    "sourceCorrection": "原表の「所处」は「处所」の誤記として補正しています。"
+  },
+  {
+    "id": "p387-25",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "（2）处所+有+数量短语+名词",
+    "category": ""
+  },
+  {
+    "id": "p387-26",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "（1）前后动作先后发生，后一动作是前一动作的目的",
+    "category": "连动句1"
+  },
+  {
+    "id": "p387-27",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "（2）前一动作是后一动作的方式",
+    "category": ""
+  },
+  {
+    "id": "p387-28",
+    "page": 384,
+    "pdfPage": 387,
+    "level": 1,
+    "source": "主语+动词+宾语1+宾语2",
+    "category": "双宾语句1"
+  },
+  {
+    "id": "p388-extra1",
+    "page": 385,
+    "pdfPage": 388,
+    "level": 1,
+    "source": "不用关联词语的复句",
+    "category": "不用关联词语的复句"
+  },
+  {
+    "id": "p388-1",
+    "page": 385,
+    "pdfPage": 388,
+    "level": 1,
+    "source": "……，也……",
+    "category": "并列复句"
+  },
+  {
+    "id": "p388-2",
+    "page": 385,
+    "pdfPage": 388,
+    "level": 1,
+    "source": "……，还……",
+    "category": ""
+  },
+  {
+    "id": "p388-3",
+    "page": 385,
+    "pdfPage": 388,
+    "level": 1,
+    "source": "用动态助词“了1”表示",
+    "category": "完成态"
+  },
+  {
+    "id": "p388-4",
+    "page": 385,
+    "pdfPage": 388,
+    "level": 1,
+    "source": "用动态助词“了2”表示",
+    "category": "变化态"
+  },
+  {
+    "id": "p388-5",
+    "page": 385,
+    "pdfPage": 388,
+    "level": 1,
+    "source": "（1）……在/正在+动词",
+    "category": "进行态"
+  },
+  {
+    "id": "p388-6",
+    "page": 385,
+    "pdfPage": 388,
+    "level": 1,
+    "source": "（2）……在/正在+动词……+呢",
+    "category": ""
+  },
+  {
+    "id": "p388-7",
+    "page": 385,
+    "pdfPage": 388,
+    "level": 1,
+    "source": "（3）……呢",
+    "category": ""
+  },
+  {
+    "id": "p388-8",
+    "page": 385,
+    "pdfPage": 388,
+    "level": 1,
+    "source": "钱数表示法",
+    "category": "数的表达法"
+  },
+  {
+    "id": "p388-9",
+    "page": 385,
+    "pdfPage": 388,
+    "level": 1,
+    "source": "序数表达法1：第+数词",
+    "category": ""
+  },
+  {
+    "id": "p388-10",
+    "page": 385,
+    "pdfPage": 388,
+    "level": 1,
+    "source": "（1）年、月、日、星期表示法",
+    "category": "时间表示法"
+  },
+  {
+    "id": "p388-11",
+    "page": 385,
+    "pdfPage": 388,
+    "level": 1,
+    "source": "（2）钟点表示法",
+    "category": ""
+  },
+  {
+    "id": "p389-1",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "面",
+    "category": "后缀"
+  },
+  {
+    "id": "p389-2",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "左、右",
+    "category": "方位名词"
+  },
+  {
+    "id": "p389-3",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "AA、A一A、A了A、ABAB",
+    "category": "动词重叠"
+  },
+  {
+    "id": "p389-4",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "可能",
+    "category": "能愿动词"
+  },
+  {
+    "id": "p389-5",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "帮忙、游泳、跳舞、跑步",
+    "category": "离合词"
+  },
+  {
+    "id": "p389-6",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "为什么",
+    "category": "疑问代词"
+  },
+  {
+    "id": "p389-7",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "自己",
+    "category": "人称代词"
+  },
+  {
+    "id": "p389-8",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "那么、那样、这么、这样、每",
+    "category": "指示代词"
+  },
+  {
+    "id": "p389-9",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "AA、AABB",
+    "category": "形容词重叠"
+  },
+  {
+    "id": "p389-10",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "万、好多、多",
+    "category": "数词"
+  },
+  {
+    "id": "p389-11",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "（1）专用名量词：条、位、间、名",
+    "category": "名量词"
+  },
+  {
+    "id": "p389-12",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "（2）借用名量词：包",
+    "category": ""
+  },
+  {
+    "id": "p389-13",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "次",
+    "category": "动量词"
+  },
+  {
+    "id": "p389-14",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "多、好、最",
+    "category": "程度副词"
+  },
+  {
+    "id": "p389-15",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "一起",
+    "category": "范围副词"
+  },
+  {
+    "id": "p389-16",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "还2、已经、有时（候）、快、快要、正",
+    "category": "时间副词"
+  },
+  {
+    "id": "p389-17",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "常、经常",
+    "category": "频率副词"
+  },
+  {
+    "id": "p389-18",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "别",
+    "category": "否定副词"
+  },
+  {
+    "id": "p389-19",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "再2、就1",
+    "category": "关联副词"
+  },
+  {
+    "id": "p389-20",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "都2、就2、还是1",
+    "category": "语气副词"
+  },
+  {
+    "id": "p389-21",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "从1",
+    "category": "引出时间、处所"
+  },
+  {
+    "id": "p389-22",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "往",
+    "category": "引出方向、路径"
+  },
+  {
+    "id": "p389-23",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "从2",
+    "category": ""
+  },
+  {
+    "id": "p389-24",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "给",
+    "category": "引出对象"
+  },
+  {
+    "id": "p389-25",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "比",
+    "category": ""
+  },
+  {
+    "id": "p389-26",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "跟1",
+    "category": ""
+  },
+  {
+    "id": "p389-27",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "因为1",
+    "category": "引出原因"
+  },
+  {
+    "id": "p389-28",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "跟2",
+    "category": "连接词或短语"
+  },
+  {
+    "id": "p389-29",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "但、但是、那、虽然、还是2、因为2、所以",
+    "category": "连接分句或者句子"
+  },
+  {
+    "id": "p389-30",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "得、地",
+    "category": "结构助词"
+  },
+  {
+    "id": "p389-31",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "过",
+    "category": "动态助词"
+  },
+  {
+    "id": "p389-32",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "着",
+    "category": "动态助词"
+  },
+  {
+    "id": "p389-33",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "呢4、吧2、的2、啊1",
+    "category": "语气助词"
+  },
+  {
+    "id": "p389-34",
+    "page": 386,
+    "pdfPage": 389,
+    "level": 2,
+    "source": "动补短语1",
+    "category": "基本结构类型"
+  },
+  {
+    "id": "p390-1",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "（1）“的”字短语",
+    "category": "其他结构类型"
+  },
+  {
+    "id": "p390-2",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "（2）连谓短语",
+    "category": ""
+  },
+  {
+    "id": "p390-3",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "（3）兼语短语",
+    "category": ""
+  },
+  {
+    "id": "p390-extra1",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "名词性短语",
+    "category": "名词性短语"
+  },
+  {
+    "id": "p390-extra2",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "动词性短语",
+    "category": "动词性短语"
+  },
+  {
+    "id": "p390-extra3",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "形容词性短语",
+    "category": "形容词性短语"
+  },
+  {
+    "id": "p390-4",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "什么的",
+    "category": "其他"
+  },
+  {
+    "id": "p390-5",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "还是……吧",
+    "category": "固定格式"
+  },
+  {
+    "id": "p390-6",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "要/快要/就要……了",
+    "category": ""
+  },
+  {
+    "id": "p390-7",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "都……了",
+    "category": ""
+  },
+  {
+    "id": "p390-8",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "受事主语",
+    "category": "主语"
+  },
+  {
+    "id": "p390-9",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "名词性短语作谓语",
+    "category": "谓语"
+  },
+  {
+    "id": "p390-10",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "动词或动词性短语、主谓短语作定语",
+    "category": "定语"
+  },
+  {
+    "id": "p390-11",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "动词+错/懂/好/会/完",
+    "category": "结果补语1"
+  },
+  {
+    "id": "p390-12",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "简单趋向补语的趋向意义用法：（1）动词+来/去",
+    "category": "趋向补语1"
+  },
+  {
+    "id": "p390-13",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "（2）动词+上/下/进/出/过/回",
+    "category": ""
+  },
+  {
+    "id": "p390-14",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "复合趋向补语的趋向意义用法：动词+出来/出去/过来/过去/回来/回去/进来/进去/起来/上来/上去/下来/下去",
+    "category": ""
+  },
+  {
+    "id": "p390-15",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "动词+得+形容词性短语",
+    "category": "状态补语1"
+  },
+  {
+    "id": "p390-16",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "（1）表示动作持续的时间",
+    "category": "数量补语2"
+  },
+  {
+    "id": "p390-17",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "（2）形容词+数量补语",
+    "category": ""
+  },
+  {
+    "id": "p390-18",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "主谓句4：主谓谓语句",
+    "category": "单句"
+  },
+  {
+    "id": "p390-19",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "用“还是”连接的选择问句",
+    "category": "疑问句"
+  },
+  {
+    "id": "p390-20",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "用“别”的祈使句",
+    "category": "祈使句"
+  },
+  {
+    "id": "p390-21",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "表示说明或特征",
+    "category": "“是”字句2"
+  },
+  {
+    "id": "p390-22",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "表示达到",
+    "category": "“有”字句2"
+  },
+  {
+    "id": "p390-23",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "处所+动词+着(+数量短语)+名词",
+    "category": "存现句2"
+  },
+  {
+    "id": "p390-24",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "（1）A比B+形容词",
+    "category": "比较句1"
+  },
+  {
+    "id": "p390-25",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "（2）A比B+形容词+数量补语/程度补语",
+    "category": ""
+  },
+  {
+    "id": "p390-26",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "（3）A有/没有B（+这么/那么）+形容词",
+    "category": ""
+  },
+  {
+    "id": "p390-27",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "（4）A比B+动词+得+形容词/A+动词+得+比+B+形容词",
+    "category": ""
+  },
+  {
+    "id": "p390-28",
+    "page": 387,
+    "pdfPage": 390,
+    "level": 2,
+    "source": "强调时间、地点、方式、动作者",
+    "category": "“是……的”句1"
+  },
+  {
+    "id": "p391-1",
+    "page": 388,
+    "pdfPage": 391,
+    "level": 2,
+    "source": "表使令：主语+请/叫/让……+宾语1+动词+宾语2",
+    "category": "兼语句1"
+  },
+  {
+    "id": "p391-2",
+    "page": 388,
+    "pdfPage": 391,
+    "level": 2,
+    "source": "主语+动词+给+宾语1+宾语2",
+    "category": "双宾语句2"
+  },
+  {
+    "id": "p391-3",
+    "page": 388,
+    "pdfPage": 391,
+    "level": 2,
+    "source": "（是）……，还是……",
+    "category": "选择复句"
+  },
+  {
+    "id": "p391-4",
+    "page": 388,
+    "pdfPage": 391,
+    "level": 2,
+    "source": "虽然……，但是……",
+    "category": "转折复句"
+  },
+  {
+    "id": "p391-5",
+    "page": 388,
+    "pdfPage": 391,
+    "level": 2,
+    "source": "因为……，所以……",
+    "category": "因果复句"
+  },
+  {
+    "id": "p391-6",
+    "page": 388,
+    "pdfPage": 391,
+    "level": 2,
+    "source": "一……就……",
+    "category": "紧缩复句"
+  },
+  {
+    "id": "p391-7",
+    "page": 388,
+    "pdfPage": 391,
+    "level": 2,
+    "source": "动词+着：（1）表示状态的持续",
+    "category": "持续态"
+  },
+  {
+    "id": "p391-8",
+    "page": 388,
+    "pdfPage": 391,
+    "level": 2,
+    "source": "（2）表示动作的持续",
+    "category": ""
+  },
+  {
+    "id": "p391-9",
+    "page": 388,
+    "pdfPage": 391,
+    "level": 2,
+    "source": "用动态助词“过”表示",
+    "category": "经历态"
+  },
+  {
+    "id": "p391-10",
+    "page": 388,
+    "pdfPage": 391,
+    "level": 2,
+    "source": "序数表示法2：数词+量词",
+    "category": "数的表达法"
+  },
+  {
+    "id": "p391-11",
+    "page": 388,
+    "pdfPage": 391,
+    "level": 2,
+    "source": "概数表达法1：（1）用“几”表示概数",
+    "category": ""
+  },
+  {
+    "id": "p391-12",
+    "page": 388,
+    "pdfPage": 391,
+    "level": 2,
+    "source": "（2）数词+多+量词",
+    "category": ""
+  },
+  {
+    "id": "p391-13",
+    "page": 388,
+    "pdfPage": 391,
+    "level": 2,
+    "source": "（3）数词+量词+多",
+    "category": ""
+  },
+  {
+    "id": "p392-1",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "老—",
+    "category": "前缀"
+  },
+  {
+    "id": "p392-2",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "—家、—子、—员",
+    "category": "后缀"
+  },
+  {
+    "id": "p392-3",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "东、南、西、北、北方、东方、南方、西方、中间",
+    "category": "方位名词"
+  },
+  {
+    "id": "p392-4",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "需要、该、应该、愿意、得",
+    "category": "能愿动词"
+  },
+  {
+    "id": "p392-5",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "动宾式离合词：放假、见面、结婚、洗澡",
+    "category": "离合词"
+  },
+  {
+    "id": "p392-6",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "动补式离合词：离开、完成、分开",
+    "category": ""
+  },
+  {
+    "id": "p392-7",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "怎样",
+    "category": "疑问代词"
+  },
+  {
+    "id": "p392-8",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "疑问代词的非疑问用法：（1）任指用法：①疑问代词+都……②疑问代词+疑问代词",
+    "category": ""
+  },
+  {
+    "id": "p392-9",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "（2）不定指用法",
+    "category": ""
+  },
+  {
+    "id": "p392-10",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "别人、咱们",
+    "category": "人称代词"
+  },
+  {
+    "id": "p392-11",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "别的、其他",
+    "category": "指示代词"
+  },
+  {
+    "id": "p392-12",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "（1）专用名量词：把、双、张、种、层、封、页、辆、节、所、班、段、头、句、公斤、斤、角、毛、刻、米",
+    "category": "名量词",
+    "sourceOriginal": "（1）专用名量词：把、双、张、种、层、封、页、辆、节、所、班、段、头、句公斤、斤、角、毛、刻、米",
+    "sourceCorrection": "原表の改行で分かれている「句」と「公斤」を別の量詞として表記しています。"
+  },
+  {
+    "id": "p392-13",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "（2）借用名量词：碗、盘",
+    "category": ""
+  },
+  {
+    "id": "p392-14",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "口、回、遍、声",
+    "category": "动量词"
+  },
+  {
+    "id": "p392-15",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "个个、张张",
+    "category": "量词重叠"
+  },
+  {
+    "id": "p392-16",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "比较、还3、更、特别、挺、有些、越、极",
+    "category": "程度副词"
+  },
+  {
+    "id": "p392-17",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "就3、一块儿、一共、只、到处、只是",
+    "category": "范围副词"
+  },
+  {
+    "id": "p392-18",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "才1、马上、先、一会儿、刚、刚刚、一直",
+    "category": "时间副词"
+  },
+  {
+    "id": "p392-19",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "总、总是、又、常常",
+    "category": "频率副词"
+  },
+  {
+    "id": "p392-20",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "一边",
+    "category": "关联副词"
+  },
+  {
+    "id": "p392-21",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "大概、必须、差不多、一定、好像、几乎",
+    "category": "情态副词"
+  },
+  {
+    "id": "p392-22",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "当然、其实、终于、才2、才3、就4",
+    "category": "语气副词"
+  },
+  {
+    "id": "p392-23",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "不必、不用",
+    "category": "否定副词"
+  },
+  {
+    "id": "p392-24",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "为1、向1、关于",
+    "category": "引出对象"
+  },
+  {
+    "id": "p392-25",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "向2",
+    "category": "引出方向、路径"
+  },
+  {
+    "id": "p392-26",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "为了、为2",
+    "category": "引出目的、原因"
+  },
+  {
+    "id": "p392-27",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "把、被",
+    "category": "引出施事、受事"
+  },
+  {
+    "id": "p392-28",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "根据",
+    "category": "引出凭借、依据"
+  },
+  {
+    "id": "p392-29",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "或、或者",
+    "category": "连接词或者短语"
+  },
+  {
+    "id": "p392-30",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "只有、只要、不但、而且、如果、可1、可是、然后",
+    "category": "连接分句或句子"
+  },
+  {
+    "id": "p392-31",
+    "page": 389,
+    "pdfPage": 392,
+    "level": 3,
+    "source": "的话",
+    "category": "其他助词"
+  },
+  {
+    "id": "p393-1",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "同位短语",
+    "category": "其他结构类型"
+  },
+  {
+    "id": "p393-2",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "动补短语2",
+    "category": ""
+  },
+  {
+    "id": "p393-3",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "数量重叠：数词+量词+数词+量词",
+    "category": ""
+  },
+  {
+    "id": "p393-4",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "不A不B",
+    "category": "四字格"
+  },
+  {
+    "id": "p393-5",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "不一会儿",
+    "category": "其他"
+  },
+  {
+    "id": "p393-6",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "看来",
+    "category": ""
+  },
+  {
+    "id": "p393-7",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "在……看来",
+    "category": ""
+  },
+  {
+    "id": "p393-8",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "越来越",
+    "category": ""
+  },
+  {
+    "id": "p393-9",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "看起来",
+    "category": ""
+  },
+  {
+    "id": "p393-10",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "看上去",
+    "category": ""
+  },
+  {
+    "id": "p393-11",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "一般来说",
+    "category": ""
+  },
+  {
+    "id": "p393-12",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "不怎么样",
+    "category": ""
+  },
+  {
+    "id": "p393-13",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "除了……（以外），……还/也/都……",
+    "category": "固定格式"
+  },
+  {
+    "id": "p393-14",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "从……起",
+    "category": ""
+  },
+  {
+    "id": "p393-15",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "对……来说",
+    "category": ""
+  },
+  {
+    "id": "p393-16",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "一……也/都+不/没……",
+    "category": ""
+  },
+  {
+    "id": "p393-17",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "一点儿也不",
+    "category": ""
+  },
+  {
+    "id": "p393-18",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "越……越……",
+    "category": ""
+  },
+  {
+    "id": "p393-19",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "（在）……以前/以后/前/后",
+    "category": ""
+  },
+  {
+    "id": "p393-20",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "X什么（啊）",
+    "category": ""
+  },
+  {
+    "id": "p393-21",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "该……了",
+    "category": ""
+  },
+  {
+    "id": "p393-22",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "在……上/下/中",
+    "category": ""
+  },
+  {
+    "id": "p393-23",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "动词或动词性短语、形容词或形容词性短语作主语",
+    "category": "主语"
+  },
+  {
+    "id": "p393-24",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "主谓短语作主语",
+    "category": ""
+  },
+  {
+    "id": "p393-25",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "多项定语",
+    "category": "定语"
+  },
+  {
+    "id": "p393-26",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "动词+到/住/走/上",
+    "category": "结果补语2"
+  },
+  {
+    "id": "p393-27",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "趋向补语的引申用法：（1）表示结果意义：动词+出/起/下",
+    "category": "趋向补语2"
+  },
+  {
+    "id": "p393-28",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "（2）表示动作行为的开始：动词+上/起来",
+    "category": ""
+  },
+  {
+    "id": "p393-29",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "（3）表示动作行为的持续：动词+下去/下来",
+    "category": ""
+  },
+  {
+    "id": "p393-30",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "动词+得/不+动词/形容词",
+    "category": "可能补语1"
+  },
+  {
+    "id": "p393-31",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "（1）形容词+得很",
+    "category": "程度补语1"
+  },
+  {
+    "id": "p393-32",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "（2）形容词/动词+极了/坏了",
+    "category": ""
+  },
+  {
+    "id": "p393-33",
+    "page": 390,
+    "pdfPage": 393,
+    "level": 3,
+    "source": "表示动作结束到某个时间点的间隔时间",
+    "category": "数量补语3"
+  },
+  {
+    "id": "p394-1",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "“怎样+动词”的特指问句",
+    "category": "疑问句"
+  },
+  {
+    "id": "p394-2",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "用反问句表示强调：不是……吗？",
+    "category": "反问句1"
+  },
+  {
+    "id": "p394-3",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "（1）主语+把+宾语+动词+在/到+处所",
+    "category": "“把”字句1"
+  },
+  {
+    "id": "p394-4",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "（2）主语+把+宾语1+动词（+给）+宾语2",
+    "category": ""
+  },
+  {
+    "id": "p394-5",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "（3）主语+把+宾语+动词+结果补语/趋向补语/状态补语",
+    "category": ""
+  },
+  {
+    "id": "p394-6",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "（1）主语+被+宾语+动词+其他成分",
+    "category": "被动句1"
+  },
+  {
+    "id": "p394-7",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "（2）主语+被+动词+其他成分",
+    "category": ""
+  },
+  {
+    "id": "p394-8",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "“着”表示动作的伴随：动词1+着+动词2",
+    "category": "连动句2"
+  },
+  {
+    "id": "p394-9",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "（1）A比B+更/还+形容词",
+    "category": "比较句2"
+  },
+  {
+    "id": "p394-10",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "（2）A跟B一样",
+    "category": ""
+  },
+  {
+    "id": "p394-11",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "（3）A跟B一样+形容词",
+    "category": ""
+  },
+  {
+    "id": "p394-12",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "（4）A不比B+形容词",
+    "category": ""
+  },
+  {
+    "id": "p394-13",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "（5）A比B+多/少/早/晚+动词+数量短语",
+    "category": ""
+  },
+  {
+    "id": "p394-14",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "（1）表示出现：处所词+动词+趋向补语/结果补语+动态助词（了）+数量短语+人/物",
+    "category": "存现句3"
+  },
+  {
+    "id": "p394-15",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "（2）表示消失：处所词+动词+结果补语+动态助词（了）+数量短语+人/物",
+    "category": ""
+  },
+  {
+    "id": "p394-16",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "强调说话人的看法或态度",
+    "category": "“是……的”句2"
+  },
+  {
+    "id": "p394-17",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "主语+动词+宾语+动词+补语",
+    "category": "重动句"
+  },
+  {
+    "id": "p394-18",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "先……，再/然后……",
+    "category": "承接复句"
+  },
+  {
+    "id": "p394-19",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "或者……，或者……",
+    "category": "选择复句"
+  },
+  {
+    "id": "p394-20",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "一会儿……，一会儿……",
+    "category": "并列复句"
+  },
+  {
+    "id": "p394-21",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "又……，又……",
+    "category": ""
+  },
+  {
+    "id": "p394-22",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "一边……，一边……",
+    "category": ""
+  },
+  {
+    "id": "p394-23",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "不但……，而且……",
+    "category": "递进复句"
+  },
+  {
+    "id": "p394-24",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "虽然……，可是……",
+    "category": "转折复句"
+  },
+  {
+    "id": "p394-25",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "如果……，就……",
+    "category": "假设复句"
+  },
+  {
+    "id": "p394-26",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "……的话，就……",
+    "category": ""
+  },
+  {
+    "id": "p394-27",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "只有……，才……",
+    "category": "条件复句"
+  },
+  {
+    "id": "p394-28",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "只要……，就……",
+    "category": ""
+  },
+  {
+    "id": "p394-29",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "为了……，……",
+    "category": "目的复句"
+  },
+  {
+    "id": "p394-30",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "……了……（就）……",
+    "category": "紧缩复句"
+  },
+  {
+    "id": "p394-31",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "概数表达法2：（1）用“大概”表示概数",
+    "category": "数的表达法"
+  },
+  {
+    "id": "p394-32",
+    "page": 391,
+    "pdfPage": 394,
+    "level": 3,
+    "source": "（2）相邻数词连用表示概数",
+    "category": ""
+  },
+  {
+    "id": "p395-1",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "敢",
+    "category": "能愿动词"
+  },
+  {
+    "id": "p395-2",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "各、各位、各种、任何、此",
+    "category": "指示代词"
+  },
+  {
+    "id": "p395-3",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "（1）专用名量词：打、袋、棵、台、幅",
+    "category": "名量词"
+  },
+  {
+    "id": "p395-4",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "（2）借用名量词：脸、手、盒、屋子、桌子",
+    "category": ""
+  },
+  {
+    "id": "p395-5",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "场、顿、趟",
+    "category": "动量词"
+  },
+  {
+    "id": "p395-6",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "十分、更加、稍、稍微、尤其、多么",
+    "category": "程度副词"
+  },
+  {
+    "id": "p395-7",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "共、全、光、仅、仅仅、至少",
+    "category": "范围副词"
+  },
+  {
+    "id": "p395-8",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "按时、从来、赶紧、赶快、已、忽然、将、将要、从、本来",
+    "category": "时间副词"
+  },
+  {
+    "id": "p395-9",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "重新、往往、偶尔、再次、老",
+    "category": "频率副词"
+  },
+  {
+    "id": "p395-10",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "故意、互相、相互",
+    "category": "方式副词"
+  },
+  {
+    "id": "p395-11",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "却",
+    "category": "关联副词"
+  },
+  {
+    "id": "p395-12",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "也许、恐怕",
+    "category": "情态副词"
+  },
+  {
+    "id": "p395-13",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "才4、就5、并1、还4、竟然、究竟、正好、到底、难道、千万、确实、只好、差（一）点儿",
+    "category": "语气副词"
+  },
+  {
+    "id": "p395-14",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "自、当、由1、随着、等1",
+    "category": "引出时间、处所"
+  },
+  {
+    "id": "p395-15",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "将、由2、叫、让",
+    "category": "引出施事、受事"
+  },
+  {
+    "id": "p395-16",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "由于1",
+    "category": "引出原因"
+  },
+  {
+    "id": "p395-17",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "对于、与1",
+    "category": "引出对象"
+  },
+  {
+    "id": "p395-18",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "作为、按、按照",
+    "category": "引出凭借、依据"
+  },
+  {
+    "id": "p395-19",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "并2、而1、与2",
+    "category": "连接词或词组"
+  },
+  {
+    "id": "p395-20",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "此外、而2、既然、甚至、不过、并且",
+    "category": "连接分句或句子"
+  },
+  {
+    "id": "p395-21",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "不光、不仅、另外、要是、因此、由于2、加上",
+    "category": ""
+  },
+  {
+    "id": "p395-22",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "等2、者、之、就是",
+    "category": "其他助词"
+  },
+  {
+    "id": "p395-23",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "啊、嗯",
+    "category": "叹词"
+  },
+  {
+    "id": "p395-24",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "数词+形容词+量词",
+    "category": "结构类型"
+  },
+  {
+    "id": "p395-25",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "一A一B",
+    "category": "四字格"
+  },
+  {
+    "id": "p395-26",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "无A无B",
+    "category": ""
+  },
+  {
+    "id": "p395-27",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "有A有B",
+    "category": ""
+  },
+  {
+    "id": "p395-28",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "来得及/来不及",
+    "category": "其他"
+  },
+  {
+    "id": "p395-29",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "有的是",
+    "category": ""
+  },
+  {
+    "id": "p395-30",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "说不定",
+    "category": ""
+  },
+  {
+    "id": "p395-31",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "不怎么",
+    "category": ""
+  },
+  {
+    "id": "p395-32",
+    "page": 392,
+    "pdfPage": 395,
+    "level": 4,
+    "source": "就是说/这就是说",
+    "category": ""
+  },
+  {
+    "id": "p396-1",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "一+量词+比+一+量词",
+    "category": "固定格式"
+  },
+  {
+    "id": "p396-2",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "在……方面",
+    "category": ""
+  },
+  {
+    "id": "p396-3",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "够……的",
+    "category": ""
+  },
+  {
+    "id": "p396-4",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "拿……来说",
+    "category": ""
+  },
+  {
+    "id": "p396-5",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "再也不/没……",
+    "category": ""
+  },
+  {
+    "id": "p396-6",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "怎么都/也+不/没……",
+    "category": ""
+  },
+  {
+    "id": "p396-7",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "为了……而……",
+    "category": ""
+  },
+  {
+    "id": "p396-8",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "动词+一X是一X",
+    "category": ""
+  },
+  {
+    "id": "p396-9",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "（没）有什么（好）X的",
+    "category": ""
+  },
+  {
+    "id": "p396-10",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "X是X，Y是Y",
+    "category": ""
+  },
+  {
+    "id": "p396-11",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "X也得X，不X也得X",
+    "category": ""
+  },
+  {
+    "id": "p396-12",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "X就是了",
+    "category": ""
+  },
+  {
+    "id": "p396-13",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "还X呢",
+    "category": ""
+  },
+  {
+    "id": "p396-14",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "你X你的吧",
+    "category": ""
+  },
+  {
+    "id": "p396-15",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "让/叫你X你就X",
+    "category": ""
+  },
+  {
+    "id": "p396-16",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "说什么/怎么（着）也得X",
+    "category": ""
+  },
+  {
+    "id": "p396-17",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "X就X（点儿）吧",
+    "category": ""
+  },
+  {
+    "id": "p396-18",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "X是X",
+    "category": ""
+  },
+  {
+    "id": "p396-19",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "形容词/心理动词+死了/厉害",
+    "category": "程度补语2"
+  },
+  {
+    "id": "p396-20",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "动词+得/不+了",
+    "category": "可能补语2"
+  },
+  {
+    "id": "p396-21",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "难道……吗？",
+    "category": "反问句2"
+  },
+  {
+    "id": "p396-22",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "由疑问代词构成的反问句",
+    "category": ""
+  },
+  {
+    "id": "p396-23",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "（1）主语+把+宾语+动词（+一/了）+动词",
+    "category": "“把”字句2"
+  },
+  {
+    "id": "p396-24",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "（2）主语+把+宾语+动词+了",
+    "category": ""
+  },
+  {
+    "id": "p396-25",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "（3）主语+把+宾语+动词+动量补语/时量补语",
+    "category": ""
+  },
+  {
+    "id": "p396-26",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "（4）主语+把+宾语+状语+动词",
+    "category": ""
+  },
+  {
+    "id": "p396-27",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "主语+叫/让+宾语+动词+其他成分",
+    "category": "被动句2"
+  },
+  {
+    "id": "p396-28",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "（1）表爱憎义：主语+表扬/批评+宾语1+动词+宾语2",
+    "category": "兼语句2"
+  },
+  {
+    "id": "p396-29",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "（2）表称谓或认定义：主语+收/选+宾语1+做/当/为+宾语2",
+    "category": ""
+  },
+  {
+    "id": "p396-30",
+    "page": 393,
+    "pdfPage": 396,
+    "level": 4,
+    "source": "（3）表致使：主语+使/让+人称代词+动词短语",
+    "category": ""
+  },
+  {
+    "id": "p397-1",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "（1）A不如B（+形容词）",
+    "category": "比较句3"
+  },
+  {
+    "id": "p397-2",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "（2）跟……相比",
+    "category": ""
+  },
+  {
+    "id": "p397-3",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "用双重否定表示强调",
+    "category": "双重否定句"
+  },
+  {
+    "id": "p397-4",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "不是……，而是……",
+    "category": "并列复句"
+  },
+  {
+    "id": "p397-5",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "既……，又/也……",
+    "category": ""
+  },
+  {
+    "id": "p397-6",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "一方面……，另一方面……",
+    "category": ""
+  },
+  {
+    "id": "p397-7",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "首先……，其次……",
+    "category": "承接复句"
+  },
+  {
+    "id": "p397-8",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "首先……，然后……",
+    "category": ""
+  },
+  {
+    "id": "p397-9",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "……，于是……",
+    "category": ""
+  },
+  {
+    "id": "p397-10",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "……,甚至……",
+    "category": "递进复句"
+  },
+  {
+    "id": "p397-11",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "不仅/不光……，还/而且……",
+    "category": ""
+  },
+  {
+    "id": "p397-12",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "……，并且……",
+    "category": ""
+  },
+  {
+    "id": "p397-13",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "连……也/都……，……更……",
+    "category": ""
+  },
+  {
+    "id": "p397-14",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "不是……，就是……",
+    "category": "选择复句"
+  },
+  {
+    "id": "p397-15",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "尽管……，但是/可是……",
+    "category": "转折复句"
+  },
+  {
+    "id": "p397-16",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "……，然而……",
+    "category": ""
+  },
+  {
+    "id": "p397-17",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "……，不过……",
+    "category": ""
+  },
+  {
+    "id": "p397-18",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "……X是X，就是/不过……",
+    "category": ""
+  },
+  {
+    "id": "p397-19",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "……，否则……",
+    "category": "假设复句"
+  },
+  {
+    "id": "p397-20",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "要是……，就……",
+    "category": ""
+  },
+  {
+    "id": "p397-21",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "要是……，（就）……，否则……",
+    "category": ""
+  },
+  {
+    "id": "p397-22",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "不管……，都/也……",
+    "category": "条件复句"
+  },
+  {
+    "id": "p397-23",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "无论……，都/也……",
+    "category": ""
+  },
+  {
+    "id": "p397-24",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "既然……，就……",
+    "category": "因果复句"
+  },
+  {
+    "id": "p397-25",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "（由于）……，因此……",
+    "category": ""
+  },
+  {
+    "id": "p397-26",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "……，好……",
+    "category": "目的复句"
+  },
+  {
+    "id": "p397-27",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "即使……，也……",
+    "category": "让步复句"
+  },
+  {
+    "id": "p397-28",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "就是……，也……",
+    "category": ""
+  },
+  {
+    "id": "p397-29",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "无标记",
+    "category": "紧缩复句"
+  },
+  {
+    "id": "p397-30",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "不……也……",
+    "category": ""
+  },
+  {
+    "id": "p397-31",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "概数表示法3：数词+来+量词",
+    "category": "数的表示法"
+  },
+  {
+    "id": "p397-32",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "用“大约、左右、前后”表示概数",
+    "category": ""
+  },
+  {
+    "id": "p397-33",
+    "page": 394,
+    "pdfPage": 397,
+    "level": 4,
+    "source": "小数、分数、百分数、倍数的表示法",
+    "category": ""
+  },
+  {
+    "id": "p398-1",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "—头",
+    "category": "后缀"
+  },
+  {
+    "id": "p398-2",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "彼此、如此、本",
+    "category": "指示代词"
+  },
+  {
+    "id": "p398-3",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "册、朵、届、颗、匹、行、架、群、支、根、批、束、副、集、周",
+    "category": "名量词"
+  },
+  {
+    "id": "p398-4",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "眼",
+    "category": "动量词"
+  },
+  {
+    "id": "p398-5",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "过于、相当、较1、可2、格外、极其",
+    "category": "程度副词"
+  },
+  {
+    "id": "p398-6",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "时刻、曾经、立刻、连忙、始终、早已、即将、急忙、渐渐、尽快、早晚",
+    "category": "时间副词"
+  },
+  {
+    "id": "p398-7",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "老是、通常、时常",
+    "category": "频率副词"
+  },
+  {
+    "id": "p398-8",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "尽量、亲自",
+    "category": "方式副词"
+  },
+  {
+    "id": "p398-9",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "便、一旦",
+    "category": "关联副词"
+  },
+  {
+    "id": "p398-10",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "似乎、仿佛",
+    "category": "情态副词"
+  },
+  {
+    "id": "p398-11",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "毕竟、居然、反正、根本、果然、简直、绝对、的确、反而、白、刚好、可3",
+    "category": "语气副词"
+  },
+  {
+    "id": "p398-12",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "自从",
+    "category": "引出时间、处所"
+  },
+  {
+    "id": "p398-13",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "朝、沿（着）",
+    "category": "引出方向、路径"
+  },
+  {
+    "id": "p398-14",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "替、同1、较2",
+    "category": "引出对象"
+  },
+  {
+    "id": "p398-15",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "凭",
+    "category": "引出凭借、依据"
+  },
+  {
+    "id": "p398-16",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "据",
+    "category": ""
+  },
+  {
+    "id": "p398-17",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "依据",
+    "category": ""
+  },
+  {
+    "id": "p398-18",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "以及、同2",
+    "category": "连接词或词组"
+  },
+  {
+    "id": "p398-19",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "从而、可见、假如、总之",
+    "category": "连接分句或句子"
+  },
+  {
+    "id": "p398-20",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "似的",
+    "category": "其他助词"
+  },
+  {
+    "id": "p398-21",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "A来A去",
+    "category": "四字格"
+  },
+  {
+    "id": "p398-22",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "A着A着",
+    "category": ""
+  },
+  {
+    "id": "p398-23",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "没A没B",
+    "category": ""
+  },
+  {
+    "id": "p398-24",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "说A就A",
+    "category": ""
+  },
+  {
+    "id": "p398-25",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "不得了",
+    "category": "其他"
+  },
+  {
+    "id": "p398-26",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "用不着",
+    "category": ""
+  },
+  {
+    "id": "p398-27",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "从……来看",
+    "category": ""
+  },
+  {
+    "id": "p398-28",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "A的A，B的B",
+    "category": ""
+  },
+  {
+    "id": "p398-29",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "（自）……以来",
+    "category": ""
+  },
+  {
+    "id": "p398-30",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "由……组成",
+    "category": ""
+  },
+  {
+    "id": "p398-31",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "X也不是，Y也不是",
+    "category": ""
+  },
+  {
+    "id": "p398-32",
+    "page": 395,
+    "pdfPage": 398,
+    "level": 5,
+    "source": "X也X不得，Y也Y不得",
+    "category": ""
+  },
+  {
+    "id": "p399-1",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "X是它，Y也是它",
+    "category": "固定格式"
+  },
+  {
+    "id": "p399-2",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "X着也是X着",
+    "category": ""
+  },
+  {
+    "id": "p399-3",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "不管怎样说",
+    "category": ""
+  },
+  {
+    "id": "p399-4",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "真有你/他/她的",
+    "category": ""
+  },
+  {
+    "id": "p399-5",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "X什么X",
+    "category": ""
+  },
+  {
+    "id": "p399-6",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "什么X不X（的）",
+    "category": ""
+  },
+  {
+    "id": "p399-7",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "不X白不X",
+    "category": ""
+  },
+  {
+    "id": "p399-8",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "X来X去，都是/就是……",
+    "category": ""
+  },
+  {
+    "id": "p399-9",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "动词+什么（就）是什么",
+    "category": ""
+  },
+  {
+    "id": "p399-10",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "多项状语",
+    "category": "状语"
+  },
+  {
+    "id": "p399-11",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "动词+得/不得",
+    "category": "可能补语2"
+  },
+  {
+    "id": "p399-12",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "形容词/心理动词+得+不得了",
+    "category": "程度补语2"
+  },
+  {
+    "id": "p399-13",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "趋向补语的引申用法：表示状态意义：动词/形容词+下来/下去/起来/过来/过去",
+    "category": "趋向补语3"
+  },
+  {
+    "id": "p399-14",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "（1）动词/形容词+得+动词短语",
+    "category": "状态补语2"
+  },
+  {
+    "id": "p399-15",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "（2）动词/形容词+得+主谓短语",
+    "category": ""
+  },
+  {
+    "id": "p399-16",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "（3）动词/形容词+得+固定短语",
+    "category": ""
+  },
+  {
+    "id": "p399-17",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "（1）表示存在、具有：主语+有+着+宾语",
+    "category": "“有”字句3"
+  },
+  {
+    "id": "p399-18",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "（2）表示附着：主语+动词+有+宾语",
+    "category": ""
+  },
+  {
+    "id": "p399-19",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "（1）主语+把+宾语+一+动词",
+    "category": "“把”字句3"
+  },
+  {
+    "id": "p399-20",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "（2）主语+把+宾语1+动词+宾语2",
+    "category": ""
+  },
+  {
+    "id": "p399-21",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "前后两个动词性词语具有因果、转折、条件关系",
+    "category": "连动句3"
+  },
+  {
+    "id": "p399-22",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "A+形容词+B+数量补语",
+    "category": "比较句4"
+  },
+  {
+    "id": "p399-23",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "主语+被/叫/让+宾语+给+动词+其他成分",
+    "category": "被动句3"
+  },
+  {
+    "id": "p399-24",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "……，便……",
+    "category": "承接复句"
+  },
+  {
+    "id": "p399-25",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "或是……，或是……",
+    "category": "选择复句"
+  },
+  {
+    "id": "p399-26",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "一旦……，就……",
+    "category": "假设复句"
+  },
+  {
+    "id": "p399-27",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "假如……，（就）……",
+    "category": ""
+  },
+  {
+    "id": "p399-28",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "万一……，（就）……",
+    "category": ""
+  },
+  {
+    "id": "p399-29",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "……，要不然/不然……",
+    "category": ""
+  },
+  {
+    "id": "p399-30",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "……，因而……",
+    "category": "因果复句"
+  },
+  {
+    "id": "p399-31",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "……，可见……",
+    "category": ""
+  },
+  {
+    "id": "p399-32",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "哪怕……，也……",
+    "category": "让步复句"
+  },
+  {
+    "id": "p399-33",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "不但不/不但没有……，反而……",
+    "category": "递进复句"
+  },
+  {
+    "id": "p399-34",
+    "page": 396,
+    "pdfPage": 399,
+    "level": 5,
+    "source": "不是……，还/还是……",
+    "category": ""
+  },
+  {
+    "id": "p400-1",
+    "page": 397,
+    "pdfPage": 400,
+    "level": 5,
+    "source": "……，为的是……",
+    "category": "目的复句"
+  },
+  {
+    "id": "p400-2",
+    "page": 397,
+    "pdfPage": 400,
+    "level": 5,
+    "source": "没有……就没有……",
+    "category": "紧缩复句"
+  },
+  {
+    "id": "p400-3",
+    "page": 397,
+    "pdfPage": 400,
+    "level": 5,
+    "source": "不……不……",
+    "category": ""
+  },
+  {
+    "id": "p400-4",
+    "page": 397,
+    "pdfPage": 400,
+    "level": 5,
+    "source": "再……也……",
+    "category": ""
+  },
+  {
+    "id": "p401-1",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "超—、多—、反—、无—、亚—、准—",
+    "category": "类前缀"
+  },
+  {
+    "id": "p401-2",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "—化、—式、—型、—性",
+    "category": "类后缀"
+  },
+  {
+    "id": "p401-3",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "人家",
+    "category": "人称代词"
+  },
+  {
+    "id": "p401-4",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "专用名量词：串、滴、枝、扇、卷1、卷2",
+    "category": "名量词"
+  },
+  {
+    "id": "p401-5",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "番",
+    "category": "动量词"
+  },
+  {
+    "id": "p401-6",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "特、异常、较为",
+    "category": "程度副词"
+  },
+  {
+    "id": "p401-7",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "净、一同、大都",
+    "category": "范围副词"
+  },
+  {
+    "id": "p401-8",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "一时、不时、仍旧、依旧、一向",
+    "category": "时间副词"
+  },
+  {
+    "id": "p401-9",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "一再、再三",
+    "category": "频率副词"
+  },
+  {
+    "id": "p401-10",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "不禁、赶忙、特地、特意、偷偷",
+    "category": "方式副词"
+  },
+  {
+    "id": "p401-11",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "未必",
+    "category": "否定副词"
+  },
+  {
+    "id": "p401-12",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "恰好、倒是、干脆、明明、总算",
+    "category": "语气副词"
+  },
+  {
+    "id": "p401-13",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "于",
+    "category": "引出时间、处所"
+  },
+  {
+    "id": "p401-14",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "至于",
+    "category": "引出对象"
+  },
+  {
+    "id": "p401-15",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "因",
+    "category": "引出目的、原因"
+  },
+  {
+    "id": "p401-16",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "除",
+    "category": "表示排除"
+  },
+  {
+    "id": "p401-17",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "不料",
+    "category": "连接分句或句子"
+  },
+  {
+    "id": "p401-18",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "所",
+    "category": "结构助词"
+  },
+  {
+    "id": "p401-19",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "啦、嘛",
+    "category": "语气助词"
+  },
+  {
+    "id": "p401-20",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "也好",
+    "category": "其他助词"
+  },
+  {
+    "id": "p401-21",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "A这A那",
+    "category": "四字格"
+  },
+  {
+    "id": "p401-22",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "左A右B",
+    "category": ""
+  },
+  {
+    "id": "p401-23",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "好（不）容易",
+    "category": "其他"
+  },
+  {
+    "id": "p401-24",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "那倒（也）是",
+    "category": ""
+  },
+  {
+    "id": "p401-25",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "算了",
+    "category": ""
+  },
+  {
+    "id": "p401-26",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "得了",
+    "category": ""
+  },
+  {
+    "id": "p401-27",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "A一+量词，B一+量词",
+    "category": ""
+  },
+  {
+    "id": "p401-28",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "东一A，西一A",
+    "category": ""
+  },
+  {
+    "id": "p401-29",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "到……为止",
+    "category": ""
+  },
+  {
+    "id": "p401-30",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "X到Y头上来了",
+    "category": ""
+  },
+  {
+    "id": "p401-31",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "不X不……，一X……",
+    "category": ""
+  },
+  {
+    "id": "p401-32",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "好你个X",
+    "category": ""
+  },
+  {
+    "id": "p401-33",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "早（也）不X，晚（也）不X",
+    "category": ""
+  },
+  {
+    "id": "p401-34",
+    "page": 398,
+    "pdfPage": 401,
+    "level": 6,
+    "source": "看/瞧+把+宾语（施事）+X得",
+    "category": ""
+  },
+  {
+    "id": "p402-1",
+    "page": 399,
+    "pdfPage": 402,
+    "level": 6,
+    "source": "放着X不Y",
+    "category": ""
+  },
+  {
+    "id": "p402-2",
+    "page": 399,
+    "pdfPage": 402,
+    "level": 6,
+    "source": "X了就X了，（没）有……",
+    "category": ""
+  },
+  {
+    "id": "p402-3",
+    "page": 399,
+    "pdfPage": 402,
+    "level": 6,
+    "source": "这/那也不X，那/这也不Y",
+    "category": ""
+  },
+  {
+    "id": "p402-4",
+    "page": 399,
+    "pdfPage": 402,
+    "level": 6,
+    "source": "X归X，Y归Y",
+    "category": ""
+  },
+  {
+    "id": "p402-5",
+    "page": 399,
+    "pdfPage": 402,
+    "level": 6,
+    "source": "看你X的/瞧他X的",
+    "category": ""
+  },
+  {
+    "id": "p402-6",
+    "page": 399,
+    "pdfPage": 402,
+    "level": 6,
+    "source": "动词/形容词+透+了",
+    "category": "程度补语3"
+  },
+  {
+    "id": "p402-7",
+    "page": 399,
+    "pdfPage": 402,
+    "level": 6,
+    "source": "（1）主语（非生物体）+把+宾语+动词+其他成分",
+    "category": "“把”字句4"
+  },
+  {
+    "id": "p402-8",
+    "page": 399,
+    "pdfPage": 402,
+    "level": 6,
+    "source": "（2）主语+把+宾语（施事）+动词+其他成分",
+    "category": ""
+  },
+  {
+    "id": "p402-9",
+    "page": 399,
+    "pdfPage": 402,
+    "level": 6,
+    "source": "一时……一时……",
+    "category": "并列复句"
+  },
+  {
+    "id": "p402-10",
+    "page": 399,
+    "pdfPage": 402,
+    "level": 6,
+    "source": "要么……，要么……",
+    "category": "选择复句"
+  },
+  {
+    "id": "p402-11",
+    "page": 399,
+    "pdfPage": 402,
+    "level": 6,
+    "source": "虽……，但/可/却/也……",
+    "category": "转折复句"
+  },
+  {
+    "id": "p402-12",
+    "page": 399,
+    "pdfPage": 402,
+    "level": 6,
+    "source": "凡是……，都……",
+    "category": "条件复句"
+  },
+  {
+    "id": "p402-13",
+    "page": 399,
+    "pdfPage": 402,
+    "level": 6,
+    "source": "除非……，才……",
+    "category": ""
+  },
+  {
+    "id": "p402-14",
+    "page": 399,
+    "pdfPage": 402,
+    "level": 6,
+    "source": "除非……，否则/不然……",
+    "category": ""
+  },
+  {
+    "id": "p402-15",
+    "page": 399,
+    "pdfPage": 402,
+    "level": 6,
+    "source": "就算……，也……",
+    "category": "让步复句"
+  },
+  {
+    "id": "p402-16",
+    "page": 399,
+    "pdfPage": 402,
+    "level": 6,
+    "source": "……，以便……",
+    "category": "目的复句"
+  },
+  {
+    "id": "p403-1",
+    "page": 400,
+    "pdfPage": 403,
+    "level": 7,
+    "source": "后—、亲—",
+    "category": "类前缀"
+  },
+  {
+    "id": "p403-2",
+    "page": 400,
+    "pdfPage": 403,
+    "level": 7,
+    "source": "—观、—鬼、—界、—然、—坛、—为、—制",
+    "category": "类后缀"
+  },
+  {
+    "id": "p403-3",
+    "page": 400,
+    "pdfPage": 403,
+    "level": 7,
+    "source": "巴不得、并非、除外、犯不着、犯得着、恨不得、可否、可谓、免不了、所谓、有所、予以",
+    "category": "动词"
+  },
+  {
+    "id": "p403-4",
+    "page": 400,
+    "pdfPage": 403,
+    "level": 7,
+    "source": "我",
+    "category": "人称代词"
+  },
+  {
+    "id": "p403-5",
+    "page": 400,
+    "pdfPage": 403,
+    "level": 7,
+    "source": "彼、这么着、兹",
+    "category": "指示代词"
+  },
+  {
+    "id": "p403-6",
+    "page": 400,
+    "pdfPage": 403,
+    "level": 7,
+    "source": "何、怎么着",
+    "category": "疑问代词"
+  },
+  {
+    "id": "p403-7",
+    "page": 400,
+    "pdfPage": 403,
+    "level": 7,
+    "source": "若干",
+    "category": "数量代词"
+  },
+  {
+    "id": "p403-8",
+    "page": 400,
+    "pdfPage": 403,
+    "level": 7,
+    "source": "重、截、缕、码、枚、摊、丸、则、幢、宗",
+    "category": "名量词"
+  },
+  {
+    "id": "p403-9",
+    "page": 400,
+    "pdfPage": 403,
+    "level": 7,
+    "source": "通",
+    "category": "动量词"
+  },
+  {
+    "id": "p403-10",
+    "page": 400,
+    "pdfPage": 403,
+    "level": 7,
+    "source": "人次",
+    "category": "复合量词"
+  },
+  {
+    "id": "p403-11",
+    "page": 400,
+    "pdfPage": 403,
+    "level": 7,
+    "source": "大为、分外、何等、极度、极力、略、略微、颇、稍稍、万分、微、尤为、愈加、越发",
+    "category": "程度副词"
+  },
+  {
+    "id": "p403-12",
+    "page": 400,
+    "pdfPage": 403,
+    "level": 7,
+    "source": "大体、概、皆、尽、均、通通、统统、唯、唯独、唯有、无非、一概",
+    "category": "范围副词"
+  },
+  {
+    "id": "p403-13",
+    "page": 400,
+    "pdfPage": 403,
+    "level": 7,
+    "source": "姑且、即、即时、届时、尽早、就此、历来、尚、随即、向来、一经、暂且、早日",
+    "category": "时间副词"
+  },
+  {
+    "id": "p403-14",
+    "page": 400,
+    "pdfPage": 403,
+    "level": 7,
+    "source": "连连、屡次、屡屡、频、时而、时时、相继、一个劲（儿）、一连、再度",
+    "category": "频率副词"
+  },
+  {
+    "id": "p403-15",
+    "page": 400,
+    "pdfPage": 403,
+    "level": 7,
+    "source": "按理、按说、百般、不由得、趁机、趁早、大肆、断然、公然、火速、截然、竭力、尽情、就近、刻意、拼命、强行、任意、日趋、如期、擅自、私自、特此、瞎、一并、一举、一手、毅然、有意、照常、照例、照样、执意、骤然、逐一、专程",
+    "category": "方式副词"
+  },
+  {
+    "id": "p403-16",
+    "page": 400,
+    "pdfPage": 403,
+    "level": 7,
+    "source": "不见得、绝不、无从、无须、无可、勿",
+    "category": "否定副词"
+  },
+  {
+    "id": "p403-17",
+    "page": 400,
+    "pdfPage": 403,
+    "level": 7,
+    "source": "必定、必将、不妨、不免、反倒、非得、分明、怪不得、果真、好在、何必、竟、愣、莫非、难怪、宁可、宁愿、碰巧、偏偏、恰巧、切、情愿、势必、索性、万万、未免、务必、幸好、幸亏、终究、何不、何尝、何苦",
+    "category": "语气副词"
+  },
+  {
+    "id": "p403-18",
+    "page": 400,
+    "pdfPage": 403,
+    "level": 7,
+    "source": "乃",
+    "category": "判断副词"
+  },
+  {
+    "id": "p403-19",
+    "page": 400,
+    "pdfPage": 403,
+    "level": 7,
+    "source": "打",
+    "category": "引出时间、处所"
+  },
+  {
+    "id": "p403-20",
+    "page": 400,
+    "pdfPage": 403,
+    "level": 7,
+    "source": "当着、就6",
+    "category": "引出对象"
+  },
+  {
+    "id": "p403-21",
+    "page": 400,
+    "pdfPage": 403,
+    "level": 7,
+    "source": "本着、基于、鉴于1、经、依",
+    "category": "引出凭借、依据"
+  },
+  {
+    "id": "p403-22",
+    "page": 400,
+    "pdfPage": 403,
+    "level": 7,
+    "source": "鉴于2、况且、免得、若、倘若、以防",
+    "category": "连接分句或句子"
+  },
+  {
+    "id": "p403-23",
+    "page": 400,
+    "pdfPage": 403,
+    "level": 7,
+    "source": "加之、乃至、且",
+    "category": "连接词或词组以及分句或句子"
+  },
+  {
+    "id": "p403-24",
+    "page": 400,
+    "pdfPage": 403,
+    "level": 7,
+    "source": "罢了、也罢、矣",
+    "category": "语气助词"
+  },
+  {
+    "id": "p404-1",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "爱A不A",
+    "category": "四字格"
+  },
+  {
+    "id": "p404-2",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "半A半B",
+    "category": ""
+  },
+  {
+    "id": "p404-3",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "不A不B",
+    "category": ""
+  },
+  {
+    "id": "p404-4",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "不A而B",
+    "category": ""
+  },
+  {
+    "id": "p404-5",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "东A西B",
+    "category": ""
+  },
+  {
+    "id": "p404-6",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "非A非B",
+    "category": ""
+  },
+  {
+    "id": "p404-7",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "忽A忽B",
+    "category": ""
+  },
+  {
+    "id": "p404-8",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "或A或B",
+    "category": ""
+  },
+  {
+    "id": "p404-9",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "可A可B",
+    "category": ""
+  },
+  {
+    "id": "p404-10",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "连A带B",
+    "category": ""
+  },
+  {
+    "id": "p404-11",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "七A八B",
+    "category": ""
+  },
+  {
+    "id": "p404-12",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "时A时B",
+    "category": ""
+  },
+  {
+    "id": "p404-13",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "无A不B",
+    "category": ""
+  },
+  {
+    "id": "p404-14",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "无A可B",
+    "category": ""
+  },
+  {
+    "id": "p404-15",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "自A自B",
+    "category": ""
+  },
+  {
+    "id": "p404-16",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "不瞒你说",
+    "category": ""
+  },
+  {
+    "id": "p404-17",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "不是",
+    "category": ""
+  },
+  {
+    "id": "p404-18",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "不是我说你",
+    "category": ""
+  },
+  {
+    "id": "p404-19",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "反过来（说）",
+    "category": ""
+  },
+  {
+    "id": "p404-20",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "概括来说",
+    "category": ""
+  },
+  {
+    "id": "p404-21",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "归根到底",
+    "category": ""
+  },
+  {
+    "id": "p404-22",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "话是这么说",
+    "category": ""
+  },
+  {
+    "id": "p404-23",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "话（又）说回来",
+    "category": ""
+  },
+  {
+    "id": "p404-24",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "换句话说",
+    "category": ""
+  },
+  {
+    "id": "p404-25",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "简（而）言之",
+    "category": ""
+  },
+  {
+    "id": "p404-26",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "可不（是嘛）",
+    "category": ""
+  },
+  {
+    "id": "p404-27",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "老实说",
+    "category": ""
+  },
+  {
+    "id": "p404-28",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "（你）还别说",
+    "category": ""
+  },
+  {
+    "id": "p404-29",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "你看你",
+    "category": ""
+  },
+  {
+    "id": "p404-30",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "说到哪儿去了",
+    "category": ""
+  },
+  {
+    "id": "p404-31",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "说真的",
+    "category": ""
+  },
+  {
+    "id": "p404-32",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "退一步说",
+    "category": ""
+  },
+  {
+    "id": "p404-33",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "无论如何",
+    "category": ""
+  },
+  {
+    "id": "p404-34",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "要（让）我说",
+    "category": ""
+  },
+  {
+    "id": "p404-35",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "这不",
+    "category": ""
+  },
+  {
+    "id": "p404-36",
+    "page": 401,
+    "pdfPage": 404,
+    "level": 7,
+    "source": "这样一来",
+    "category": ""
+  },
+  {
+    "id": "p405-1",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "真是的",
+    "category": ""
+  },
+  {
+    "id": "p405-2",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "综上所述",
+    "category": ""
+  },
+  {
+    "id": "p405-3",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "总的来说",
+    "category": ""
+  },
+  {
+    "id": "p405-4",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "总而言之",
+    "category": ""
+  },
+  {
+    "id": "p405-5",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "X到这个地步/份上",
+    "category": ""
+  },
+  {
+    "id": "p405-6",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "X得要命/要死",
+    "category": ""
+  },
+  {
+    "id": "p405-7",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "X都不/没X",
+    "category": ""
+  },
+  {
+    "id": "p405-8",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "X就X个Y",
+    "category": ""
+  },
+  {
+    "id": "p405-9",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "X了Y，Y了X",
+    "category": ""
+  },
+  {
+    "id": "p405-10",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "X也好，Y也罢",
+    "category": ""
+  },
+  {
+    "id": "p405-11",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "别提（有）多+形容词+了",
+    "category": ""
+  },
+  {
+    "id": "p405-12",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "不亚于……",
+    "category": ""
+  },
+  {
+    "id": "p405-13",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "不知X是/才好",
+    "category": ""
+  },
+  {
+    "id": "p405-14",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "动不动就……",
+    "category": ""
+  },
+  {
+    "id": "p405-15",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "动词+得个……",
+    "category": ""
+  },
+  {
+    "id": "p405-16",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "动词+个X",
+    "category": ""
+  },
+  {
+    "id": "p405-17",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "该X（就）X，该Y（就）Y",
+    "category": ""
+  },
+  {
+    "id": "p405-18",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "何至于……",
+    "category": ""
+  },
+  {
+    "id": "p405-19",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "仅次于X",
+    "category": ""
+  },
+  {
+    "id": "p405-20",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "看在X的面子上",
+    "category": ""
+  },
+  {
+    "id": "p405-21",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "没什么+动词+头儿",
+    "category": ""
+  },
+  {
+    "id": "p405-22",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "没什么好+动词+的",
+    "category": ""
+  },
+  {
+    "id": "p405-23",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "莫过于……",
+    "category": ""
+  },
+  {
+    "id": "p405-24",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "你说你一个X，……",
+    "category": ""
+  },
+  {
+    "id": "p405-25",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "什么A的B的",
+    "category": ""
+  },
+  {
+    "id": "p405-26",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "视……而定",
+    "category": ""
+  },
+  {
+    "id": "p405-27",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "谈何……",
+    "category": ""
+  },
+  {
+    "id": "p405-28",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "无非/不过/只是……罢了/而已",
+    "category": ""
+  },
+  {
+    "id": "p405-29",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "想X之所想，急X之所急",
+    "category": ""
+  },
+  {
+    "id": "p405-30",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "向……致以……",
+    "category": ""
+  },
+  {
+    "id": "p405-31",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "要X有/没X，要Y有/没Y",
+    "category": ""
+  },
+  {
+    "id": "p405-32",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "因……而……",
+    "category": ""
+  },
+  {
+    "id": "p405-33",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "有何X",
+    "category": ""
+  },
+  {
+    "id": "p405-34",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "有什么+动词+头儿",
+    "category": ""
+  },
+  {
+    "id": "p405-35",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "（在）……之余",
+    "category": ""
+  },
+  {
+    "id": "p405-36",
+    "page": 402,
+    "pdfPage": 405,
+    "level": 7,
+    "source": "值此……之际，……",
+    "category": ""
+  },
+  {
+    "id": "p406-1",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "A+形容词+于/过+B",
+    "category": "比较句5"
+  },
+  {
+    "id": "p406-2",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "一来……，二来……，三来……",
+    "category": "并列复句"
+  },
+  {
+    "id": "p406-3",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "一则……，二则……，三则……",
+    "category": ""
+  },
+  {
+    "id": "p406-4",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "所谓……，就是……",
+    "category": "解说复句"
+  },
+  {
+    "id": "p406-5",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "或……，或……",
+    "category": "选择复句"
+  },
+  {
+    "id": "p406-6",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "宁可/宁愿……，也不……",
+    "category": ""
+  },
+  {
+    "id": "p406-7",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "与其……，宁愿/宁可……",
+    "category": ""
+  },
+  {
+    "id": "p406-8",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "X（倒）是X（了），……",
+    "category": "转折复句"
+  },
+  {
+    "id": "p406-9",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "别看……，……",
+    "category": ""
+  },
+  {
+    "id": "p406-10",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "虽说……，但/可……",
+    "category": ""
+  },
+  {
+    "id": "p406-11",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "无论……与否，都……",
+    "category": "条件复句"
+  },
+  {
+    "id": "p406-12",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "凡……（者），均（可）……",
+    "category": ""
+  },
+  {
+    "id": "p406-13",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "假若/假使……，……",
+    "category": "假设复句"
+  },
+  {
+    "id": "p406-14",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "幸亏/幸好……，不然/否则……",
+    "category": ""
+  },
+  {
+    "id": "p406-15",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "纵然/纵使……，也……",
+    "category": ""
+  },
+  {
+    "id": "p406-16",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "（因）……，故……",
+    "category": "因果复句"
+  },
+  {
+    "id": "p406-17",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "……，以至（于）……",
+    "category": ""
+  },
+  {
+    "id": "p406-18",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "别说……，都/也……",
+    "category": "递进复句"
+  },
+  {
+    "id": "p406-19",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "……不说，还……",
+    "category": ""
+  },
+  {
+    "id": "p406-20",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "连……都……，更不用说……了",
+    "category": ""
+  },
+  {
+    "id": "p406-21",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "……尚且……，（更）何况……",
+    "category": ""
+  },
+  {
+    "id": "p406-22",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "……，更不用说……了",
+    "category": ""
+  },
+  {
+    "id": "p406-23",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "为（了）……起见，……",
+    "category": "目的复句"
+  },
+  {
+    "id": "p406-24",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "……，以……",
+    "category": ""
+  },
+  {
+    "id": "p406-25",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "非得……才……",
+    "category": "紧缩复句"
+  },
+  {
+    "id": "p406-26",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "任……也……",
+    "category": ""
+  },
+  {
+    "id": "p406-27",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "多重并列复句",
+    "category": "多重复句"
+  },
+  {
+    "id": "p406-28",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "多重转折复句",
+    "category": ""
+  },
+  {
+    "id": "p406-29",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "多重假设复句",
+    "category": ""
+  },
+  {
+    "id": "p406-30",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "多重因果复句",
+    "category": ""
+  },
+  {
+    "id": "p406-31",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "多重递进复句",
+    "category": ""
+  },
+  {
+    "id": "p406-32",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "时间顺序",
+    "category": "语段（句群）"
+  },
+  {
+    "id": "p406-33",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "空间顺序",
+    "category": ""
+  },
+  {
+    "id": "p406-34",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "逻辑顺序",
+    "category": ""
+  },
+  {
+    "id": "p406-35",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "话题延伸",
+    "category": ""
+  },
+  {
+    "id": "p406-36",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "话题转换",
+    "category": ""
+  },
+  {
+    "id": "p406-37",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "承前省略",
+    "category": ""
+  },
+  {
+    "id": "p406-38",
+    "page": 403,
+    "pdfPage": 406,
+    "level": 7,
+    "source": "蒙后省略",
+    "category": ""
+  }
+]
