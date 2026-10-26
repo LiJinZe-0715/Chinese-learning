@@ -7,7 +7,7 @@
 需要 Node.js 22.18+（推荐 Node.js 26）和 pnpm 12.9.1。
 
 ```sh
-npm install --global pnpm@12.11.2
+npm install --global pnpm@12.15.0
 pnpm install --frozen-lockfile
 pnpm dev
 ```
