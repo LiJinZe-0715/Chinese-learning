@@ -29,7 +29,7 @@ try {
         }
     }
     collect(classes);
-    run(path.join(java, 'bin', windows ? 'java.exe' : 'java'), ['-cp', path.join(sdk, 'build-tools/35.0.0/lib/d8.jar'),
+    run(path.join(java, 'bin', windows ? 'java.exe' : 'java'), ['-cp', path.join(sdk, 'build-tools/36.0.0/lib/d8.jar'),
         'com.android.tools.r8.D8', '--min-api', '26', '--lib', androidJar, '--output', dex, ...files]);
     run(adb, ['push', path.join(dex, 'classes.dex'), '/data/local/tmp/study-updates-test.dex']);
     run(adb, ['shell', 'CLASSPATH=/data/local/tmp/study-updates-test.dex', 'app_process', '/', 'app.study.mobile.UpdateCheckTest']);
